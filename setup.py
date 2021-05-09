@@ -11,9 +11,9 @@ setuptools.setup(
     description="Test Package",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/Asfetaw/Helloworld",
     project_urls={
-        "Bug Tracker": "https://github.com/pypa/sampleproject/issues",
+        "Bug Tracker": "https://github.com/Asfetaw/Helloworld",
     },
     classifiers=[
         "Programming Language :: Python :: 3",

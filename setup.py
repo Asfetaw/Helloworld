@@ -13,7 +13,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url="https://github.com/Asfetaw/Helloworld",
     project_urls={
-        "Bug Tracker": "https://github.com/Asfetaw/Helloworld",
+        "Bug Tracker": "https://github.com/Asfetaw/Helloworld/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",

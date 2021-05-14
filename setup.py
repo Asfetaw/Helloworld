@@ -1,3 +1,4 @@
+"""This module contains setup instructions for Hellowrld""""
 import setuptools
 
 with open("README.md", "r", encoding="utf-8") as fh:
@@ -12,6 +13,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/Asfetaw/Helloworld",
+    license="The Unlicense (Unlicense)",
     project_urls={
         "Bug Tracker": "https://github.com/Asfetaw/Helloworld/issues",
     },
